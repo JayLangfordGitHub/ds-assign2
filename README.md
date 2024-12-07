@@ -1,3 +1,9 @@
+## Distributed Systems Assignment 2
+
+Phase 1 - All functionality completed
+
+Phase 2 - All functionality completed
+
+Phase 3 - All functionality completed
 
 
-aws s3 cp test.txt s3://a-bucket/test.txt --metadata '{"x-amz-meta-cms-id":"34533452"}'
