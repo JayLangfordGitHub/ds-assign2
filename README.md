@@ -6,4 +6,4 @@ Phase 2 - All functionality completed
 
 Phase 3 - All functionality completed
 
-
+Note: I was only able to push everything to the repo past the deadline as my electricty went out due to the storm, but ou can see by the youtube video that I recorded and uploaded the video before the deadline demonstarting full functionality. Apologies for that
